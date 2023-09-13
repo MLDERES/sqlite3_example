@@ -19,3 +19,4 @@ from pathlib import Path
 # Print the result
 # Close the cursor
 # Close the connection
+
